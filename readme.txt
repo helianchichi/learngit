@@ -12,4 +12,4 @@ noff
 
 api 100%
 
-dev version linux
+dev version linux win
